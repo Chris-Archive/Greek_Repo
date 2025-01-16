@@ -11,7 +11,7 @@
 | Active | Subjunctive | -ω | -ῃς | -ῃ | -ωμεν | -ητε | -ωσι(ν) |
 | Active | Optative | -οιμῐ | -οις | -οι | -οιμεν | -οιτε | -οιεν |
 | Active | Imperative | - | -ε | -έτω | - | -ετε | -όντων |
-| Medio-Passive | Indicative | -ομαι | -ῃ | -εται | -όμεθα | -εσθε | -ονται |
+| Medio-Passive | Indicative | -ομαι | -ῃ | -εται | -όμεθᾰ | -εσθε | -ονται |
 | Medio-Passive | Subjunctive | -ωμαι | -ῃ | -ηται | -ώμεθᾰ | -ησθε | -ωνται |
 | Medio-Passive | Optative | -οίμην | -οιο | -οιτο | -οίμεθᾰ | -οισθε | -οιντο |
 | Medio-Passive | Imperative | - | -ου | -έσθω | - | -εσθε | -έσθων |
@@ -21,7 +21,7 @@
 |  | | 1st | 2nd | 3rd | 1st | 2nd | 3rd |
 | -: | -: |:-: | :-: | :-: | :-: | :-: | :-: |
 | Active | Indicative | -ον | -ες | -ε(ν) | -ομεν | -ετε | -ον |
-| Medio-Passive | Indicative | -όμην | -ου | -ετο | -όμεθα | -εσθε | -έοντο |
+| Medio-Passive | Indicative | -όμην | -ου | -ετο | -όμεθᾰ | -εσθε | -έοντο |
 
 ### Future I
 

@@ -6,7 +6,7 @@
 The articular infinitive is when the article is used with an infinitive (τό, τοῦ, τῷ, τό). In the nominative and accusative, the infinitive tends to drop the article. The article cannot be dropped in the genitive or the dative. The meaning corresponds to its declension or prepositional form.
 
 - In the nominative, the meaning is the same as the participle.
-  - Τὸ Πνεῦμα τοῦ Πατρὸς <u>(τὸ) ἐκπορεύεσθαι</u>.
+  - Τὸ Πνεῦμα <u>(τὸ) ἐκπορεύεσθαι</u> τοῦ Πατρὸς <u></u>.
     - The Spirit <u>proceeds</u> from the Father.
     - The Spirit (is) <u>proceeding</u> from the Father.
 
